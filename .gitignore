@@ -5,9 +5,11 @@ crash-reports/
 ESM/
 patchouli_books/
 local/
+Defaultconfigs/
 username.json
 usernamecache.json
 user-prefs.json
 options.txt
 patchouli_data.json
 rhino.local.properties
+usercache.json

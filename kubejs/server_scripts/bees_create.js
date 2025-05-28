@@ -1,0 +1,6 @@
+ServerEvents.recipes(event => {
+event.recipes.create.mixing([Item.of('complicated_bees:beeswax').withChance(0.5),Item.of('complicated_bees:honey_droplet').withChance(0.3),Item.of('minecraft:glowstone_dust').withChance(0.25)], Item.of('complicated_bees:comb', '{comb_type:"complicated_bees:glowstone"}').strongNBT())
+event.recipes.create.mixing([Item.of('complicated_bees:beeswax').withChance(0.2),Item.of('complicated_bees:royal_jelly').withChance(0.2),Item.of('complicated_bees:honey_droplet').withChance(0.9)], Item.of('complicated_bees:comb', '{comb_type:"complicated_bees:royal"}').strongNBT())
+event.recipes.create.mixing([Item.of('complicated_bees:beeswax').withChance(0.5),Item.of('minecraft:diamond').withChance(0.25),Item.of('complicated_bees:honey_droplet').withChance(0.3)], Item.of('complicated_bees:comb', '{comb_type:"complicated_bees:diamond"}').strongNBT())
+event.recipes.create.mixing([Item.of('complicated_bees:beeswax').withChance(0.5),Item.of('minecraft:coal').withChance(0.25),Item.of('complicated_bees:honey_droplet').withChance(0.3)], Item.of('complicated_bees:comb', '{comb_type:"complicated_bees:coal"}').strongNBT())
+})
