@@ -13,3 +13,4 @@ options.txt
 patchouli_data.json
 rhino.local.properties
 usercache.json
+.DS_Store
