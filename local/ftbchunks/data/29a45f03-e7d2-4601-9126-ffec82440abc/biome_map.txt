@@ -1,0 +1,10 @@
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#010 minecraft:forest
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#3DC minecraft:plains
+#5FF minecraft:river
+#4D3 minecraft:swamp
+#152 minecraft:windswept_forest
+#4C3 minecraft:windswept_hills

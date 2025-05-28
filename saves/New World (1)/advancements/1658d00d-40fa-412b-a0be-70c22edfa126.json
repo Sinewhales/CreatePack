@@ -1,0 +1,67 @@
+{
+  "moredelight:combat/stone_knife": {
+    "criteria": {
+      "has_the_recipe": "2025-05-28 17:36:35 +0200"
+    },
+    "done": true
+  },
+  "moredelight:combat/wooden_knife": {
+    "criteria": {
+      "has_the_recipe": "2025-05-28 17:36:35 +0200"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-05-28 17:36:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2025-05-28 18:12:04 +0200",
+      "minecraft:river": "2025-05-28 18:12:50 +0200",
+      "minecraft:swamp": "2025-05-28 17:36:42 +0200",
+      "minecraft:forest": "2025-05-28 17:49:30 +0200",
+      "minecraft:plains": "2025-05-28 17:36:49 +0200"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-05-28 17:39:10 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-28 17:39:10 +0200"
+    },
+    "done": true
+  },
+  "moredelight:main/root": {
+    "criteria": {
+      "seeds": "2025-05-28 17:39:10 +0200"
+    },
+    "done": true
+  },
+  "createnuclear:root": {
+    "criteria": {
+      "0": "2025-05-28 17:39:10 +0200"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-05-28 17:39:26 +0200"
+    },
+    "done": true
+  },
+  "create_bic_bit:welcome": {
+    "criteria": {
+      "inventory_changed": "2025-05-28 17:59:26 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
