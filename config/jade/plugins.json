@@ -54,9 +54,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
   "pneumaticcraft": {
     "pneumatic": true,
     "tube_module": true,
@@ -64,14 +61,6 @@
     "redstone": true,
     "camo": true,
     "semiblock": true
-  },
-  "delightful": {
-    "crop_progress": true,
-    "pie_icons": true,
-    "mushroom_colony": true
-  },
-  "supplementaries": {
-    "hat_stand": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -81,8 +70,8 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "gravestone": {
-    "grave": true
+  "balm": {
+    "jade": true
   },
   "integrateddynamicscompat": {
     "proxy": true,
@@ -91,9 +80,6 @@
     "drying_basin": true,
     "part": true,
     "squeezer": true
-  },
-  "barbequesdelight": {
-    "grill": true
   },
   "ae2": {
     "part_icon": true,
@@ -106,5 +92,33 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "delightful": {
+    "crop_progress": true,
+    "pie_icons": true,
+    "mushroom_colony": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "gravestone": {
+    "grave": true
+  },
+  "camera": {
+    "image_frame": true
+  },
+  "barbequesdelight": {
+    "grill": true
   }
 }

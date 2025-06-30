@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SineWhales",
+      "uniqueId": "1658d00d-40fa-412b-a0be-70c22edfa126"
+    },
+    "time": 1751146125861,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4s0CilENno"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SineWhales",
+      "uniqueId": "1658d00d-40fa-412b-a0be-70c22edfa126"
+    },
+    "time": 1751146123726,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/PZbqV1EcJa"
+    }
+  }
+]
